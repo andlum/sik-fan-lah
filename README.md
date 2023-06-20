@@ -1,2 +1,3 @@
 # sik-fan-lah
-A recipe book, but for dinner party menus
+
+Dinner party menus that I've concocted
