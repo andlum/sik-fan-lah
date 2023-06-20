@@ -1,2 +1,2 @@
 # sik-fan-lah
-Dinner party menus
+A recipe book, but for dinner party menus
